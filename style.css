@@ -2,6 +2,33 @@
    @author Caldwell Silva
 */
 
-body{
-    background-color: #ff0000;
+/* Smartphone portrait */
+
+
+/* Smartphone landscape */
+@media (min-width: 576px) {
+    body{
+        background-color: #0ff;
+    }
+}
+
+/* Tablet portrait */
+@media (min-width: 768px) {
+    body{
+        background-color: #ff0;
+    }
+}
+
+/* Tablet landscape */
+@media (min-width: 992px) {
+    body{
+        background-color: #ff6600;
+    }
+}
+
+/* PC */
+@media (min-width: 1200px) {
+    body{
+        background-color: #ff0000;
+    }
 }
