@@ -19,6 +19,8 @@ Aprenda HTML5, CSS3 e SEO de forma prática e objetiva desenvolvendo passo a pas
 [draw](https://app.diagrams.net/)
 ### Tipografia
 [google fonts](https://fonts.google.com/)
+
+[unicode](https://www.unicode.org/charts/)
 ### Imagens
 [pixabay](https://pixabay.com/pt/)
 
@@ -27,3 +29,12 @@ Aprenda HTML5, CSS3 e SEO de forma prática e objetiva desenvolvendo passo a pas
 [iconfinder](https://iconfinfer.com/)
 
 [optmizilla](https://imagecompressor.com/pt/)
+### Validação W3C
+[html](https://validator.w3.org/)
+
+[css](https://jigsaw.w3.org/css-validator/)
+
+
+
+### :smiley: Valeu!
+
