@@ -12,6 +12,15 @@
 
 # HTML5 e CSS3
 Aprenda HTML5, CSS3 e SEO de forma prática e objetiva desenvolvendo passo a passo do zero até a hospedagem um site moderno e responsivo.
+### Playlist
+[Iniciar tutorial](https://www.youtube.com/playlist?list=PLbEOwbQR9lqySIIlPJ-Qwo4f4HSuXVeWk)
+### Certificado
+[Iniciar teste](https://forms.gle/1Rz9Nw4kGCaMxxKi9)
+### Slides do tutorial
+#### Planejamento
+[![Planejamento](https://github.com/professorjosedeassis/html5css3/blob/main/img/slide2.png)](https://pt.slideshare.net/josedeassisfilho/planejamento-htm5-e-css3 "Apresentação dos slides")
+#### CSS FlexBox
+[![CSS FlexBox](https://github.com/professorjosedeassis/html5css3/blob/main/img/slide.png)](https://pt.slideshare.net/josedeassisfilho/css-flexbox-252669331 "Apresentação dos slides")
 ## Links indicados
 ### Planejamento
 [cetic](https://www.cetic.br/)
